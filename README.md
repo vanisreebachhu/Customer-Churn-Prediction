@@ -92,20 +92,6 @@ The predicted churn probability was approximately **59.6%**.
 
 ## 📁 Project Structure
 
-```text
-Customer-Churn-Prediction/
-│
-├── Customer_Churn_Prediction.ipynb
-└── README.md
-## ✅ Conclusion
-
-This project demonstrates the complete basic Machine Learning workflow, including data analysis, visualization, model training, evaluation, and prediction.
-
-## 👩‍💻 Author
-
-**Vanisree Bachhu**
-
-B.Tech – Data Science
 Customer-Churn-Prediction/
 │
 ├── Customer_Churn_Prediction.ipynb
